@@ -1,3 +1,1 @@
 chapter1
-
-text dodany podczas aktywnej gałęzi "alien-plot"
